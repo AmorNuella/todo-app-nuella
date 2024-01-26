@@ -1,0 +1,10 @@
+.background-img {
+  background-image: url("https://images.pexels.com/photos/1587699/pexels-photo-1587699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: brightness(80%);
+}
+.h-screen.bg-cover {
+  background-size: cover;
+  background-position: center;
+}
